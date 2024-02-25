@@ -1,19 +1,3 @@
- Merhaba 👋
-
- GitHub Profilime Hoş Geldiniz!
-
-🔭 Şu anda Frontend veya Backend Developer pozisyonları için iyi bir fırsat arıyorum. Hemşirelikten yazılıma geçiş yapmak isteyen bir teknoloji tutkunuyum.
-
-🎓 Bilgisayar Mühendisliği mezunuyum ve teknolojinin her yönüyle ilgileniyorum, bu da beni sürekli olarak yeni şeyler öğrenmeye itiyor.
-
-🌱 Şu anda React ve Node.js gibi modern web teknolojileri üzerinde yoğunlaşıyorum.
-
-🥅 2024 Hedeflerim: Sağlık sektöründeki deneyimimi kullanarak, insanların hayatını kolaylaştıracak teknolojiler geliştirmek.
-
-⚡ Eğlenceli gerçek: Gezmeyi ve yeni şeyler keşfetmeyi seviyorum. Farklı kültürleri yaşamak ve dünyanın dört bir yanındaki gizli güzellikleri keşfetmek beni heyecanlandırıyor.
-
----
-
 # Hello 👋
 
 ## Welcome to My GitHub Profile!
@@ -27,3 +11,18 @@
 🥅 My goals for 2024: To leverage my experience in the healthcare sector to develop technologies that improve people's lives.
 
 ⚡ Fun fact: I love to travel and discover new things. Experiencing different cultures and uncovering the hidden beauties of the world thrills me.
+## GitHub Stats
+
+![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayselgocerr&count_private=true&show_icons=true&theme=light)
+
+## Languages and Tools:
+
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
+
