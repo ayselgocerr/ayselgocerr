@@ -1,6 +1,4 @@
-# Hello 👋
-
-## Welcome to My GitHub Profile!
+Hello 👋
 <p>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&default=default&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /></a>
 </p>
@@ -27,7 +25,7 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p width="100%">
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanGedik73&show_icons=true&locale=en" alt="FurkanGedik73" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayselgocerr&show_icons=true&locale=en" alt="ayselgocerr" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
