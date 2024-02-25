@@ -14,7 +14,6 @@ Hello 👋
 ⚡ Fun fact: I love to travel and discover new things. Experiencing different cultures and uncovering the hidden beauties of the world thrills me.
 ## GitHub Stats
 
-![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayselgocerr&count_private=true&show_icons=true&theme=light)
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"> <br/><br/>
 
