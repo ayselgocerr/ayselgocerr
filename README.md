@@ -13,6 +13,11 @@
 ⚡ Eğlenceli gerçek: Gezmeyi ve yeni şeyler keşfetmeyi seviyorum. Farklı kültürleri yaşamak ve dünyanın dört bir yanındaki gizli güzellikleri keşfetmek beni heyecanlandırıyor.
 
 ---
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  ... (diğer ikonlar için img tag'ları) ...
+</p>
 
 # Hello 👋
 
