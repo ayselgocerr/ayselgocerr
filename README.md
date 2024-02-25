@@ -1,6 +1,6 @@
-# Merhaba 👋
+ Merhaba 👋
 
-## GitHub Profilime Hoş Geldiniz!
+ GitHub Profilime Hoş Geldiniz!
 
 🔭 Şu anda Frontend veya Backend Developer pozisyonları için iyi bir fırsat arıyorum. Hemşirelikten yazılıma geçiş yapmak isteyen bir teknoloji tutkunuyum.
 
